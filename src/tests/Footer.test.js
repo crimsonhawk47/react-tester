@@ -1,4 +1,4 @@
-import Footer from '../components/Footer'
+import Footer from '../components/Footer/Footer'
 
 import ReactTester from './ReactTester'
 import React, { Component } from 'react'

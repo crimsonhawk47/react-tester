@@ -1,7 +1,7 @@
 import ReactTester from './ReactTester'
 import React, { Component } from 'react';
 
-import ClientGallery from '../components/ClientGallery'
+import ClientGallery from '../components/ClientGallery/ClientGallery'
 
 const ClientGalleryTester = new ReactTester(
     <ClientGallery match={{ params: '' }} />
